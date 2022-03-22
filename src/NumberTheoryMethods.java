@@ -125,6 +125,7 @@ public class NumberTheoryMethods {
 
         gcd(2367,1834);
         isPrime(317);
+        System.out.println("TEST");
     }
 
 }
